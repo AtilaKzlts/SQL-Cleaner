@@ -6,13 +6,11 @@ In this study, our aim is to clean our club membership table in our **PostgreSQL
 
 *The raw version is attached below*;
 
-| Full Name             | Age | Marital Status | Email                     | Phone         | Full Address                               | Job Title                      | Membership Date |
-|-----------------------|-----|---------------|---------------------------|--------------|------------------------------------------|--------------------------------|----------------|
-| Addie Lush           | 40  | Married       | alush0@shutterfly.com     | 254-389-8708 | 3226 Eastlawn Pass, Temple, Texas        | Assistant Professor           | 7/31/2013      |
-| Rock Cradick         | 46  | Married       | rcradick1@newsvine.com    | 910-566-2007 | 4 Harbort Avenue, Fayetteville, North Carolina | Programmer III               | 5/27/2018      |
-| Sydel Sharvell       | 46  | Divorced      | ssharvell2@amazon.co.jp   | 702-187-8715 | 4 School Place, Las Vegas, Nevada       | Budget/Accounting Analyst I   | 10/6/2017      |
-| Constantin de la Cruz| 35  |               | co3@bloglines.com         | 402-688-7162 | 6 Monument Crossing, Omaha, Nebraska    | Desktop Support Technician    | 10/20/2015     |
-| Gaylor Redhole       | 38  | Married       | gredhole4@japanpost.jp    | 917-394-6001 | 88 Cherokee Pass, New York City, New York | Legal Assistant               | 5/29/2019      |
+| Full Name            | Age | Marital Status | Email                     | Phone         | Full Address                               | Job Title                        | Membership Date |
+|----------------------|-----|---------------|---------------------------|--------------|--------------------------------------------|--------------------------------|----------------|
+| Addie Lush          | 40  | Married       | alush0@shutterfly.com     | 254-389-8708 | 3226 Eastlawn Pass, Temple, Texas         | Assistant Professor            | 7/31/2013      |
+| Rock Cradick        | 46  | Married       | rcradick1@newsvine.com    | 910-566-2007 | 4 Harbort Avenue, Fayetteville, North Carolina | Programmer III              | 5/27/2018      |
+| Sydel Sharvell      | 46  | Divorced      | ssharvell2@amazon.co.jp   | 702-187-8715 | 4 School Place, Las Vegas, Nevada         | Budget/Accounting Analyst I    | 10/6/2017      |
 
 ## Objective
 
@@ -198,11 +196,8 @@ FROM cleaned_clup;
 
 ## Result
 *Clean Table looks like*
-
 | Name    | Last Name | Age | Martial Status | Occupation                   | Email                     | Phone      | Full Address                              | Membership Date | City         | State      |
 |---------|----------|-----|---------------|------------------------------|---------------------------|------------|-------------------------------------------|----------------|--------------|------------|
 | Morrie  | Overell  | 37  | Divorced      | Web Designer, Level 1       | moverellk@nydailynews.com | 5133796486 | 53061 Hoffman Park, Cincinnati, Ohio     | 2018-08-15     | Cincinnati   | Ohio       |
 | Damaris | Dioniso  | 34  | Married       | Environmental Specialist     | ddionisol@utexas.edu      | 4155585275 | 5 Eagan Terrace, San Francisco, Kalifornia | 2012-02-21     | San Francisco | Kalifornia |
 | Mort    | Paik     | 54  | Single        | Geologist, Level 4          | mpaik99@si.edu            | 3303372909 | 58 Petterle Point, Akron, Ohio           | 2019-01-24     | Akron        | Ohio       |
-| Ruperto | Kayzer   | 40  | Single        | Food Chemist                | rkayzerom@cisco.com       | 4045827509 | 06846 Prentice Circle, Decatur, Georgia  | 2017-06-06     | Decatur      | Georgia    |
-| Janith  | Whales   | 55  | Married       | None                         | jwhales7@woothemes.com    | 9371411241 | 54438 Anhalt Drive, Hamilton, Ohio       | 2022-01-21     | Hamilton     | Ohio       |
