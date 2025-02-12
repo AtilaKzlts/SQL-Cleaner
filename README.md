@@ -1,5 +1,5 @@
 
-# Data Cleaning With SQL
+# Club's Data Cleaning
 
 ## Intrudciton
 In this study, our aim is to clean our club membership table in our **PostgreSQL** database and make it ready for analysis.
