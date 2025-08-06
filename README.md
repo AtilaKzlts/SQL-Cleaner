@@ -1,7 +1,7 @@
 
 # Club's Data Cleaning
 
-## Intrudciton
+## Introduction
 In this study, our aim is to clean our club membership table in our **PostgreSQL** database and make it ready for analysis.
 
 *The raw version is attached below*;
