@@ -2,14 +2,14 @@
 # Club's Data Cleaning
 
 ## Introduction
-In this study, our aim is to clean our club membership table in our **PostgreSQL** database and make it ready for analysis.
+This study focuses on cleaning the club membership table in our **PostgreSQL** database to make it analysis-ready.
 
 *The raw version is attached below*;
 
 | Full Name            | Age | Marital Status | Email                     | Phone         | Full Address                               | Job Title                        | Membership Date |
 |----------------------|-----|---------------|---------------------------|--------------|--------------------------------------------|--------------------------------|----------------|
-| Addie Lush          | 40  | Married       | alush0@shutterfly.com     | 254-389-8708 | 3226 Eastlawn Pass, Temple, Texas         | Assistant Professor            | 7/31/2013      |
-| Rock Cradick        | 46  | Married       | rcradick1@newsvine.com    | 910-566-2007 | 4 Harbort Avenue, Fayetteville, North Carolina | Programmer III              | 5/27/2018      |
+| Addie Lush%          | 40  | MarrieD       | alush0@shutterfly.com     | 254-389-8708 | 3226 Eastlawn Pass, Temple, Texas         | Assistant Professor            | 7/31/2013      |
+| Rock Cradick        | 46  | Married       | rcradick1@newsvine.com    | 910:566-2007 | 4 Harbort Avenue, Fayetteville, North Carolina | Programmer III              | 5/27/2018      |
 | Sydel Sharvell      | 46  | Divorced      | ssharvell2@amazon.co.jp   | 702-187-8715 | 4 School Place, Las Vegas, Nevada         | Budget/Accounting Analyst I    | 10/6/2017      |
 
 ## Objective
